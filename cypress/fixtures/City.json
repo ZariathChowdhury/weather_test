@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "name": "Oslo",
+      "lat": 59.9133301,
+      "lon": 10.7389701,
+      "country": "NO"
+    },
+
+    {
+      "name": "Kjenn",
+      "lat": 59.9436747,
+      "lon": 10.9257322,
+      "country": "NO"
+    },
+
+    {
+      "name": "Bergen",
+      "lat": 60.3943055,
+      "lon": 5.3259192,
+      "country": "NO"
+    }
+  ]
+}
